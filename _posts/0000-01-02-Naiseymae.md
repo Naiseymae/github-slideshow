@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Eenie-meenie-minee ...  ***THIS ONE!***
 Use the left arrow to go back!
